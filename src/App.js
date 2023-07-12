@@ -3,8 +3,8 @@ import './App.css';
 
 function App() {
   return (
-        <p>
-         Ivan
+        <p className='p'>
+         Здесь скоро будет Skypro.Music
         </p>
 
   );
